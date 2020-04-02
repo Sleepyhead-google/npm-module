@@ -1,0 +1,19 @@
+{
+  "name": "js-add-sl",
+  "version": "1.0.0",
+  "description": "just add",
+  "main": "main.js",
+  "scripts": {
+    "test": "jsadd"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tomorrow9011"
+  },
+  "keywords": [
+    "jsadd"
+  ],
+  "author": "sleepyhead991",
+  "license": "ISC",
+  "dependencies": {}
+}
